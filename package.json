@@ -1,8 +1,11 @@
 {
   "name": "web-core-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "@peterosama:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "exit 0"
   },
