@@ -1,10 +1,10 @@
 {
   "name": "web-core-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "@peterosama:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@PeterOsama"
   },
   "scripts": {
     "test": "exit 0"

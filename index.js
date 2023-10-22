@@ -1,3 +1,7 @@
+export const sayHello = () => {
+  console.log('hello');
+}
+
 export const data = {
   "theme": {
     "extend": {
@@ -994,3 +998,5 @@ export const data = {
   "variants": {},
   "plugins": []
 };
+
+
